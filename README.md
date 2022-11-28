@@ -25,7 +25,7 @@ My journey started in hardware where I worked building electronics and computers
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 -  📝 I’m currently learning Typescript and API Security  
   
@@ -62,7 +62,7 @@ My journey started in hardware where I worked building electronics and computers
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="75%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dbutch25&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
