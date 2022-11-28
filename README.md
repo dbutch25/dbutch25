@@ -55,7 +55,7 @@ My journey started in hardware where I worked building electronics and computers
 
 
 ## Github Stats  
-<td valign="top" width="75%">
+<td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dbutch25&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -66,14 +66,4 @@ My journey started in hardware where I worked building electronics and computers
 
   
 
-<br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=dbutch25&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
---
