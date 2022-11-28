@@ -33,7 +33,7 @@ My journey started in hardware where I worked building electronics and computers
 - 🎮 On my downtime can always connect with me on [Steam](https://steamcommunity.com/id/DemonChrome/)  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="0%">
 
 
 
@@ -66,7 +66,7 @@ My journey started in hardware where I worked building electronics and computers
 
 <img src="https://github-readme-stats.vercel.app/api?username=dbutch25&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="0%">
 
 
 
