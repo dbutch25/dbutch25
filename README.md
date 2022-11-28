@@ -25,19 +25,12 @@ My journey started in hardware where I worked building electronics and computers
 
 <br/>  
 
-<table><tr><td valign="top" width="100%">
 
 -  📝 I’m currently learning Typescript and API Security  
   
 
 - 🎮 On my downtime can always connect with me on [Steam](https://steamcommunity.com/id/DemonChrome/)  
 
-
-</td><td valign="top" width="0%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -62,15 +55,12 @@ My journey started in hardware where I worked building electronics and computers
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="75%">
+<td valign="top" width="75%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dbutch25&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="0%">
+</td>
 
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -78,7 +68,7 @@ My journey started in hardware where I worked building electronics and computers
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=dbutch25&&style=flat-square)  
   
 
 <br/>  
@@ -86,5 +76,4 @@ My journey started in hardware where I worked building electronics and computers
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+--
